@@ -1,16 +1,22 @@
-#Hi there 👋
+👋 ¡Hola! Soy German
 
-<!--
-**ggarcia202/ggarcia202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudiante de Desarrollo Full Stack**  
+🚀 Aprendiendo **HTML, CSS y JavaScript**  
+☕ Amante del código, el café y los nuevos retos  
 
-Here are some ideas to get you started:
+SOBRE MI
+- 🌍 Me apasiona crear sitios web interactivos y con buen diseño.  
+- 📚 Actualmente mejorando mis habilidades en **JavaScript**.  
+- 🎯 Mi objetivo: convertirme en un **desarrollador Full Stack profesional**.  
+- 💬 Siempre abierto a aprender y colaborar en proyectos nuevos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MIS HERRAMIENTAS
+- 🧩 **Frontend: HTML, CSS, JavaScript  
+- 🔧 **Herramientas: Git, GitHub, VS Code  
+
+MIS WEBS DE CONTACTO
+- ✉️ EMAIL: ggarciasolano03@gmail.com
+- 🌐 LINKEDIN: https://www.linkedin.com/in/german-garcia-solano-a00352268/
+
+
+⭐ Gracias por visitar mi perfil!!!🚀
