@@ -20,3 +20,6 @@ MIS WEBS DE CONTACTO
 
 
 ⭐ Gracias por visitar mi perfil!!!🚀
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
