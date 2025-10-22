@@ -25,3 +25,8 @@ MIS WEBS DE CONTACTO
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ggarcia202&show_icons=true&theme=tokyonight)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ggarcia202&layout=compact&theme=tokyonight)
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=ggarcia202&theme=tokyo-night)
+
+
