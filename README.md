@@ -21,5 +21,7 @@ MIS WEBS DE CONTACTO
 
 ⭐ Gracias por visitar mi perfil!!!🚀
 
+-MY GITHUB STATS
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ggarcia202&show_icons=true&theme=tokyonight)
 
