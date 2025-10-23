@@ -1,27 +1,37 @@
-👋 ¡Hola! Soy German
+# 👋 Hi there! I'm Germán García
 
-💻 **Estudiante de Desarrollo Full Stack**  
-🚀 Aprendiendo **HTML, CSS y JavaScript**  
-☕ Amante del código y los nuevos retos  
+💻 **Full Stack Development Student**  
+🚀 Currently learning **HTML, CSS, and JavaScript**  
+☕ Passionate about coding and new challenges
 
-SOBRE MI
-- 🌍 Me apasiona crear sitios web interactivos y con buen diseño.  
-- 📚 Actualmente mejorando mis habilidades en **JavaScript**.  
-- 🎯 Mi objetivo: convertirme en un **desarrollador Full Stack profesional**.  
-- 💬 Siempre abierto a aprender y colaborar en proyectos nuevos.  
+---
 
-MIS HERRAMIENTAS
-- 🧩 **Frontend: HTML, CSS, JavaScript  
-- 🔧 **Herramientas: Git, GitHub, VS Code  
+## 🧠 About Me
 
-MIS WEBS DE CONTACTO
-- ✉️ EMAIL: ggarciasolano03@gmail.com
-- 🌐 LINKEDIN: https://www.linkedin.com/in/german-garcia-solano-a00352268/
+🌍 I’m passionate about creating interactive and well-designed websites.  
+📚 Currently improving my skills in **JavaScript**.  
+🎯 My goal: to become a professional **Full Stack Developer**.  
+💬 Always open to learning and collaborating on new projects.
 
+---
 
-⭐ Gracias por visitar mi perfil!!!🚀
+## 🛠️ My Tools
 
--MY GITHUB STATS
+🧩 **Frontend:** HTML, CSS, JavaScript  
+🔧 **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌐 Contact Me
+
+✉️ **Email:** ggarciasolano03@gmail.com  
+🔗 **LinkedIn:** [Germán García Solano](https://www.linkedin.com/in/german-garcia-solano-a00352268/)
+
+---
+
+⭐ Thanks for visiting my profile! 🚀
+
+### 📊 My GitHub Stats
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ggarcia202&show_icons=true&theme=tokyonight)
 
