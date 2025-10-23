@@ -2,7 +2,7 @@
 
 💻 **Estudiante de Desarrollo Full Stack**  
 🚀 Aprendiendo **HTML, CSS y JavaScript**  
-☕ Amante del código, el café y los nuevos retos  
+☕ Amante del código y los nuevos retos  
 
 SOBRE MI
 - 🌍 Me apasiona crear sitios web interactivos y con buen diseño.  
