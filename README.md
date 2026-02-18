@@ -74,9 +74,11 @@ This background allows me to design with structure, hierarchy, and user experien
 ---
 
 ## 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggarcia202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggarcia202&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
 
 ## 🌐 Connect With Me
 
