@@ -1,76 +1,92 @@
-Germán García
+<h1 align="center">Hi 👋 I'm Germán García</h1>
 
-Full Stack Developer | React & Python
+<p align="center">
+  💻 Full Stack Developer <br>
+  🎨 Background in 3D Animation & Interactive Design <br>
+  🌍 Open to International Opportunities
+</p>
 
-Full Stack Developer trained at 4Geeks Academy with a background in 3D Animation and Digital Design. I build full stack web applications with a strong focus on clean architecture, usability, and maintainable code.
+---
 
-Technical Stack
+## 🚀 About Me
 
-Frontend
+I am a Full Stack Developer trained at 4Geeks Academy with a degree in 3D Animation and Interactive Environments.
 
-React
+I combine:
 
-JavaScript (ES6+)
+🧠 Technical problem-solving  
+🎨 Visual and user-centered thinking  
+⚙️ Clean backend architecture  
+✨ Frontend attention to detail  
 
-HTML5
+My goal is to build applications that are both **functional and visually structured**.
 
-CSS3
+---
 
-Bootstrap
+## 🛠️ Tech Stack
 
-Backend
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-Python
+### 🔧 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-Flask
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-RESTful API development
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-JWT-based authentication
+---
 
-Database
+## 🚀 Featured Project
 
-PostgreSQL
+### 📚 Bookie – Full Stack Web Application
 
-SQLAlchemy
+Full stack application built with React + Flask.
 
-Tools
+✔ RESTful API architecture  
+✔ JWT-based authentication  
+✔ CRUD operations  
+✔ Relational database integration  
+✔ Clean separation between frontend and backend  
 
-Git
+🔗 Repository:  
+https://github.com/karolkusmi/Bookie_Final  
 
-GitHub
+---
 
-Postman
+## 🎨 Creative Background
 
-VS Code
+🎬 Degree in 3D Animation  
+🧊 3D Modeling & Rendering  
+💡 Visual Composition  
+🖥️ Interactive Digital Environments  
 
-Featured Project
-Bookie – Full Stack Web Application
+This background allows me to design with structure, hierarchy, and user experience in mind.
 
-Full stack web application built with React and Flask.
+---
 
-RESTful API architecture
+## 📊 GitHub Activity
 
-User authentication system
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggarcia202&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggarcia202&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-CRUD operations connected to a relational database
+---
 
-Frontend–backend integration
+## 🌐 Connect With Me
 
-Version control using Git
+📧 ggarciasolano03@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/german-garcia-solano-a00352268/
 
-Repository:
-https://github.com/karolkusmi/Bookie_Final
+---
 
-Background in 3D & Visual Development
-
-Degree in 3D Animation and Interactive Environments.
-Strong understanding of visual composition, digital asset creation, and user-centered design principles.
-
-This hybrid profile allows me to approach development from both technical and visual perspectives.
-
-Contact
-
-Email: ggarciasolano03@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/german-garcia-solano-a00352268/
+⭐ Always open to collaboration and new challenges.
