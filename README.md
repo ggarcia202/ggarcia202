@@ -1,42 +1,76 @@
-# 👋 Hi there! I'm Germán García
+Germán García
 
-💻 **Full Stack Development Student**  
-🚀 Currently learning **HTML, CSS, and JavaScript**  
-☕ Passionate about coding and new challenges
+Full Stack Developer | React & Python
 
----
+Full Stack Developer trained at 4Geeks Academy with a background in 3D Animation and Digital Design. I build full stack web applications with a strong focus on clean architecture, usability, and maintainable code.
 
-## 🧠 About Me
+Technical Stack
 
-🌍 I’m passionate about creating interactive and well-designed websites.  
-📚 Currently improving my skills in **JavaScript**.  
-🎯 My goal: to become a professional **Full Stack Developer**.  
-💬 Always open to learning and collaborating on new projects.
+Frontend
 
----
+React
 
-## 🛠️ My Tools
+JavaScript (ES6+)
 
-🧩 **Frontend:** HTML, CSS, JavaScript  
-🔧 **Tools:** Git, GitHub, VS Code
+HTML5
 
----
+CSS3
 
-## 🌐 Contact Me
+Bootstrap
 
-✉️ **Email:** ggarciasolano03@gmail.com  
-🔗 **LinkedIn:** [Germán García Solano](https://www.linkedin.com/in/german-garcia-solano-a00352268/)
+Backend
 
----
+Python
 
-⭐ Thanks for visiting my profile! 🚀
+Flask
 
-### 📊 My GitHub Stats
+RESTful API development
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ggarcia202&show_icons=true&theme=tokyonight)
+JWT-based authentication
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ggarcia202&layout=compact&theme=tokyonight)
+Database
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=ggarcia202&theme=tokyo-night)
+PostgreSQL
 
+SQLAlchemy
 
+Tools
+
+Git
+
+GitHub
+
+Postman
+
+VS Code
+
+Featured Project
+Bookie – Full Stack Web Application
+
+Full stack web application built with React and Flask.
+
+RESTful API architecture
+
+User authentication system
+
+CRUD operations connected to a relational database
+
+Frontend–backend integration
+
+Version control using Git
+
+Repository:
+https://github.com/karolkusmi/Bookie_Final
+
+Background in 3D & Visual Development
+
+Degree in 3D Animation and Interactive Environments.
+Strong understanding of visual composition, digital asset creation, and user-centered design principles.
+
+This hybrid profile allows me to approach development from both technical and visual perspectives.
+
+Contact
+
+Email: ggarciasolano03@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/german-garcia-solano-a00352268/
